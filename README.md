@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![App Screenshot](/assets/responsivoP5.png)
+![App Screenshot](/assets/responsivo768x1196.png)
 ![App Screenshot](/assets/responsivoP5.png)
 
 ## Stack utilizada
